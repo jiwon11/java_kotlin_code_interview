@@ -1,4 +1,4 @@
-package Algorithm;
+package algorithm.stringManipulation;
 
 public class ValidPalindrome {
     public boolean isPalindrome(String s) {
